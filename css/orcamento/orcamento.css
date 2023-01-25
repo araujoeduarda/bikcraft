@@ -33,13 +33,15 @@
 
 .orcamento-produto {
   border-radius: 5px 0 0 5px;
-  display: grid;
-  gap: 20px;
   background: var(--cor12);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-content: start;
 }
-.orcamento-dados {
-  border-radius: 0 5px 5px 0;
-  background: var(--cor0);
+
+.orcamento-produto > * {
+  grid-column: 1/-1;
 }
 
 .orcamento-produto > label {
@@ -86,7 +88,7 @@
 }
 
 .orcamento-produto input:focus + label {
-  box-shadow: 0 0 0 2px var(--cor-p1);
+  box-shadow: 0 0 0 2px var(--corp1);
   border-color: var(--cor12);
 }
 
@@ -106,8 +108,7 @@
 
 .orcamento-dados {
   border-radius: 0 5px 5px 0;
-  background: var(--cor0) url("../../img/dec/bottom-right.svg") no-repeat bottom
-    20px right 20px;
+  background: var(--cor0);
 }
 
 .orcamento-conteudo {
@@ -162,7 +163,6 @@
   }
   .orcamento-produto {
     border-radius: 5px 5px 0 0;
-    background: var(--cor12);
   }
   .orcamento-dados {
     border-radius: 0 0 5px 5px;
