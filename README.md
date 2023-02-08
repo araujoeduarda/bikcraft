@@ -33,7 +33,7 @@ Pontos importantes:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="200" height="150" alt="Javascript" /></a>
 
 # 🌐 **Página do Projeto**
-[Bikcraft](https://araujoeduarda.github.io/bikcraft/)
+Visite a página do projeto clicando [aqui](https://araujoeduarda.github.io/bikcraft/).
 
 # 🎨 **Modelo no Figma**
       https://www.figma.com/file/C1dYBTs4ryPx6HTcYpA3Bj/bikcraft-(Copy)?t=CDGJ4YOLD1DgS8c9-0
