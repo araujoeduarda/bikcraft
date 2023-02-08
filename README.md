@@ -1,6 +1,6 @@
-# 🚲 bikcraft
+<h1 align="center">  bikcraft 🚲 </h1>
 
-              Site de bicicletas elétricas da Bikcraft
+<p align="center">Site de bicicletas elétricas da Bikcraft.</p>
                                                    
 
 
@@ -34,7 +34,7 @@ Pontos importantes:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="200" height="150" alt="Javascript" /></a>
 
 # 🌐 **Página do Projeto**
-Visite a página do projeto clicando [aqui](https://araujoeduarda.github.io/bikcraft/).
+  <p align="center" >Visite a página do projeto clicando <a href="https://araujoeduarda.github.io/bikcraft/">aqui</a>.</p>
 
 # 🎨 **Modelo no Figma**
-      https://www.figma.com/file/C1dYBTs4ryPx6HTcYpA3Bj/bikcraft-(Copy)?t=CDGJ4YOLD1DgS8c9-0
+<p align="center" >Visite o projeto do site no Figma clicando <a href="https://www.figma.com/file/C1dYBTs4ryPx6HTcYpA3Bj/bikcraft-(Copy)?t=CDGJ4YOLD1DgS8c9-0">aqui</a>.</p> 
