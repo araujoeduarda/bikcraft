@@ -1,6 +1,6 @@
-# 🚲 bikcraft
+<h1 align="center">  bikcraft 🚲 </h1>
 
-              Site de bicicletas elétricas da Bikcraft
+<p align="center">Site de bicicletas elétricas da Bikcraft.</p>
                                                    
 
 
@@ -9,8 +9,9 @@
 <p><strong>Desenvolvi esse projeto de site para a empresa de bicicletas fictícia bikcraft.<strong><p>
 
 <h3 align="center">
-    <img src="https://user-images.githubusercontent.com/113942221/217656622-c4951a67-8b0f-4b18-a237-bf86454c7d7e.png" width="300" height="250" alt="Página Inicial">
+    <img src="https://user-images.githubusercontent.com/113942221/217661186-fbb6354a-6103-409f-a189-6aa6406558b6.gif" width="300" height="250" alt="Página Inicial">
 </h3>
+
 
 
 
@@ -33,7 +34,7 @@ Pontos importantes:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="200" height="150" alt="Javascript" /></a>
 
 # 🌐 **Página do Projeto**
-Visite a página do projeto clicando [aqui](https://araujoeduarda.github.io/bikcraft/).
+  <p align="center" >Visite a página do projeto clicando <a href="https://araujoeduarda.github.io/bikcraft/">aqui</a>.</p>
 
 # 🎨 **Modelo no Figma**
-      https://www.figma.com/file/C1dYBTs4ryPx6HTcYpA3Bj/bikcraft-(Copy)?t=CDGJ4YOLD1DgS8c9-0
+<p align="center" >Visite o projeto do site no Figma clicando <a href="https://www.figma.com/file/C1dYBTs4ryPx6HTcYpA3Bj/bikcraft-(Copy)?t=CDGJ4YOLD1DgS8c9-0">aqui</a>.</p> 
