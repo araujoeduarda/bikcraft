@@ -9,8 +9,9 @@
 <p><strong>Desenvolvi esse projeto de site para a empresa de bicicletas fictícia bikcraft.<strong><p>
 
 <h3 align="center">
-    <img src="" width="300" height="250" alt="Página Inicial">
+    <img src="https://user-images.githubusercontent.com/113942221/217656622-c4951a67-8b0f-4b18-a237-bf86454c7d7e.png" width="300" height="250" alt="Página Inicial">
 </h3>
+
 
 
 # ℹ️ **Informações do Projeto**
@@ -27,8 +28,9 @@ Pontos importantes:
 # 👩‍💻 **Tecnologias Usadas**
 
 <p align="center">
-<img width="200" src="" alt="Html ícones criados por Freepik - Flaticon">
-<img width="200" src="" alt="Css ícones criados por Pixel perfect - Flaticon">
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="200" height="150" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="200" height="150" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="200" height="150" alt="Javascript" /></a>
 
 # 🌐 **Página do Projeto**
 [Bikcraft](https://araujoeduarda.github.io/bikcraft/)
