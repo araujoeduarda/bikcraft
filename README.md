@@ -9,7 +9,7 @@
 <p><strong>Desenvolvi esse projeto de site para a empresa de bicicletas fictícia bikcraft.<strong><p>
 
 <h3 align="center">
-    <img src="https://user-images.githubusercontent.com/113942221/217661186-fbb6354a-6103-409f-a189-6aa6406558b6.gif" width="300" height="250" alt="Página Inicial">
+    <img src="https://user-images.githubusercontent.com/113942221/217680869-05b1221f-39c6-4af9-a7e5-b7efb31ce3ed.gif" width="300" height="250" alt="Página Inicial">
 </h3>
 
 
